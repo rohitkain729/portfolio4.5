@@ -29,8 +29,11 @@ header {
   /* padding-top: 3rem; */
   /* margin-top: 10rem; */
   height: 30rem;
-  /* width: 60rem; */
-  margin: auto;
+  width: 80rem;
+  margin-left: 4rem;
+/* display: flex; */
+/* justify-content: center; */
+  /* margin: auto; */
   background-image: url("../images/banner-bg.jpg");
   background-size: cover;
 }
@@ -47,8 +50,8 @@ header {
 }
 
 #tools {
-  width: 60%;
-  height: 18rem;
+  width: 65%;
+  height: 26rem;
 }
 
 #footer {
